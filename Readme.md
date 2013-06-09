@@ -1,4 +1,3 @@
-
 # canonical
 
   Component: returns the canonical URL for the page.
@@ -12,7 +11,7 @@
 ```html
 <html>
 <head>
-  <link rel="canonical" href="http://exampe.com" />
+  <link rel="canonical" href="http://example.com" />
 </head>
 </html>
 ```
